@@ -1,6 +1,6 @@
 ## Description
 
-This project was done for TSH Group during my Poly Final Year Project.
+This project was done for TSH Group.
 
 1. The main Data Extractor file is named "Data Extractor" and there are more specific details to use it inside the excel sheet.
 
